@@ -21,7 +21,7 @@ The project utilizes the [**Spider Dataset**](https://huggingface.co/datasets/xl
 - Multiple database schemas for comprehensive evaluation
 - Human-annotated by Yale students for quality assurance
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ### Stage 1: Environment Setup & Problem Framing
 - Library installation and configuration
